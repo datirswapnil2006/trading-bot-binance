@@ -140,5 +140,5 @@ Swapnil Datir
 
 
 ## 📩 Submission
+https://github.com/datirswapnil2006/trading-bot-binance
 
-GitHub repository link + logs submitted as per assignment instructions.
